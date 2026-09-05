@@ -7,7 +7,7 @@ public class countCharacter {
 
 	        int count = str.length();
 
-	        System.out.println("Total number of characters: " + count);
+	        System.out.println("Total number of characters are: " + count);
 
 	}
 
